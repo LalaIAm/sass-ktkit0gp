@@ -1,0 +1,17 @@
+{
+  "name": "@backlight-dev/tradememobile.sass-ktkit0gp",
+  "version": "0.0.0",
+  "description": "",
+  "license": "MIT",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx backlight@latest serve VC8yPkfqyhtHiwx3D3n4 --open"
+  },
+  "devDependencies": {
+    "lit-html": "^1.4.1"
+  },
+  "dependencies": {
+    "@divriots/dockit-core": "^0.1.9"
+  }
+}
